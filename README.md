@@ -8,4 +8,4 @@ projeto Api para servir os sistemas web e mobile
 - Usuário pode criar, marcar task como feita, desmarcar tarefa como feita, e excluir tarefa
 
 # Linguagens Utilizadas
-NodeJS | Express | Prisma ORM | Typescript
+NodeJS | Express | Prisma ORM | Typescript | MySQL
